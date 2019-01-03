@@ -5,12 +5,12 @@ Node sert de serveur, il reçoit la requête et renvoie toujours le même objet 
 Cette objet contient simplement le nom "durant".
 
 ## Récupération du programme
-Dans un nouveau répertoire taper.
+Dans un nouveau répertoire taper  
 **git clone https://github.com/WilliamDarcy/FecthNodeDemo.git**
 
 
 ## Mise en place du serveur node
-Dans le répertoire FetchNodeDemo taper
+Dans le répertoire FetchNodeDemo taper    
 **node server.js**
 
 ### Test de fetch
